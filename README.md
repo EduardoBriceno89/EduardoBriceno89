@@ -14,6 +14,7 @@ Hi! ðŸ‘‹ i'm Eduardo, a developer who loves code and learn new things everyday.ð
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
     </div>
