@@ -23,5 +23,6 @@ Hi! 👋 i'm Eduardo, a developer who loves code and learning new things everyda
     <div>
       <a href="https://www.ruby-lang.org/es/"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="40" height="40"></a>
       <a href="https://rubyonrails.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" width="40" height="40"></a>
+      <a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" width="40" height="40"></a>
     </div>
 </div>
