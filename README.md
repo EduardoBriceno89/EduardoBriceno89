@@ -26,3 +26,6 @@ Hi! 👋 i'm Eduardo, a developer who loves code and learning new things everyda
       <a href="https://es.reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"></a>
     </div>
 </div>
+</br>
+
+[![@eduardobriceno89's Holopin board](https://holopin.me/eduardobriceno89)](https://holopin.io/@eduardobriceno89)
