@@ -28,4 +28,6 @@ Hi! 👋 i'm Eduardo, a developer who loves code and learning new things everyda
 </div>
 </br>
 
+# :jack_o_lantern: HacktoberFest 2022
+
 [![@eduardobriceno89's Holopin board](https://holopin.me/eduardobriceno89)](https://holopin.io/@eduardobriceno89)
