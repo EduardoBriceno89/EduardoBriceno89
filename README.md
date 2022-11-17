@@ -9,6 +9,8 @@ Hi! ðŸ‘‹ i'm Eduardo, a developer who loves code and learn new things everyday.ð
     <h3>Languages and Tools:</h3>
     <div>
       <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"></a>
+      <a href="https://www.ruby-lang.org/es/"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="40" height="40"></a>
+      <a href="https://rubyonrails.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" width="40" height="40"></a>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
@@ -21,8 +23,6 @@ Hi! ðŸ‘‹ i'm Eduardo, a developer who loves code and learn new things everyday.ð
     </div>
     <h3>Currently Learning:</h3>
     <div>
-      <a href="https://www.ruby-lang.org/es/"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="40" height="40"></a>
-      <a href="https://rubyonrails.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" width="40" height="40"></a>
       <a href="https://es.reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"></a>
     </div>
 </div>
