@@ -24,7 +24,7 @@ Hi! ğŸ‘‹ i'm Eduardo, a developer who loves code and learn new things everyday.ğ
     <h3>Currently Learning:</h3>
     <div>
       <a href="https://es.reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"></a>
-      <a href="https://angular.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></a>
+      <a href="https://angular.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40"></a>
     </div>
 </div>
 </br>
