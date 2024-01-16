@@ -26,7 +26,7 @@ Hi! ğŸ‘‹ i'm Eduardo, a developer who loves code and learn new things everyday.ğ
 </div>
 </br>
 
-### Currently learning
+### Currently learning:
 <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40">
