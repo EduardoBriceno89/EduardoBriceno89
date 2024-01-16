@@ -26,6 +26,12 @@ Hi! ðŸ‘‹ i'm Eduardo, a developer who loves code and learn new things everyday.ð
 </div>
 </br>
 
+### Currently learning
+<div align="left">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40">
+</div>
+
 # :jack_o_lantern: HacktoberFest 2022
 
 [![@eduardobriceno89's Holopin board](https://holopin.me/eduardobriceno89)](https://holopin.io/@eduardobriceno89)
