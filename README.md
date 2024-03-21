@@ -5,32 +5,19 @@
 
 Hi! 👋 i'm Eduardo, a developer who loves code and learn new things everyday.👾👽
 
-<div align="left">
-    <h3>Languages and Tools:</h3>
-    <div>
-      <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"></a>
-      <a href="https://rubyonrails.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" width="40" height="40"></a>
-    <a href="https://angular.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="40" height="40"></a>
-    <a href="https://es.reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"></a>
-    <a href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"></a>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
-      <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"></a>
-      <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"></a>
-      <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="40" height="40"></a>
-      <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"></a>
-      <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"></a>
-    </div>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,rails,angular,react,tailwind,git,linux" />
+  </a>
+</p>
 </br>
 
-### Currently learning:
-<div align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="40" height="40">
-</div>
+### Currently learning: 🧠
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,laravel" />
+  </a>
+</p>
 
 # :jack_o_lantern: HacktoberFest 2022
 
