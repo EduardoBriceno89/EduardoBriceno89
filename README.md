@@ -7,17 +7,10 @@ Hi! 👋 i'm Eduardo, a developer who loves code and learn new things everyday.�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,rails,angular,react,tailwind,git,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rails,dotnet,laravel,angular,vue,react,flutter,tailwind,git,docker,linux" />
   </a>
 </p>
 </br>
-
-### Currently learning: 🧠
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,laravel" />
-  </a>
-</p>
 
 # :jack_o_lantern: HacktoberFest 2022
 
