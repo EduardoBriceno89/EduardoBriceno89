@@ -3,11 +3,11 @@
 <!--
 **EduardoBriceno89/EduardoBriceno89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hi! 👋 i'm Eduardo, a developer who loves code and learn new things everyday.👾👽
+Hi! I'm Eduardo. I'm a developer passionate about coding and keeping up with emerging technologies.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rails,dotnet,laravel,angular,vue,react,flutter,tailwind,git,docker,linux,rust" />
+    <img src="https://skillicons.dev/icons?i=js,ts,rails,dotnet,laravel,angular,vue,react,flutter,git,docker,linux,rust" />
   </a>
 </p>
 </br>
