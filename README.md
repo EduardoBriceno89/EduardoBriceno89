@@ -7,7 +7,7 @@ Hi! ðŸ‘‹ i'm Eduardo, a developer who loves code and learn new things everyday.ð
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rails,dotnet,laravel,angular,vue,react,flutter,tailwind,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,rails,dotnet,laravel,angular,vue,react,flutter,tailwind,git,docker,linux,rust" />
   </a>
 </p>
 </br>
